@@ -6,7 +6,8 @@ Yozora is an experimental browser project focused on combining a modern browsing
 
 > **Status: Early development.** Yozora is a work in progress and is not yet ready for everyday use.
 
-<img width="735" height="648" alt="Yozora" src="https://github.com/user-attachments/assets/50fedc56-e432-463b-aca8-dcd546e85eac" />
+<img width="1024" height="1024" alt="yozora-logo-new" src="https://github.com/user-attachments/assets/5b48c717-1db5-4300-9a7d-4afad76ef50d" />
+
 
 
 ## ✨ Vision
